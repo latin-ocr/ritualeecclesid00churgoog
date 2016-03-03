@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ritualeecclesid00churgoog_0009.png"; bbox 0 0 2986 5074; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 4119 1102 4240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 4119 1102 4240">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 4119 1102 4168; baseline -0.002 -13"><span class='ocrx_word' id='word_1_1' title='bbox 520 4121 643 4156; x_wconf 75' lang='lat' dir='ltr'>LONDON:</span> <span class='ocrx_word' id='word_1_2' title='bbox 664 4121 777 4157; x_wconf 80' lang='lat' dir='ltr'><strong>PRINTED</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 796 4119 830 4156; x_wconf 87' lang='lat' dir='ltr'>BY</span> <span class='ocrx_word' id='word_1_4' title='bbox 849 4121 954 4156; x_wconf 77' lang='lat' dir='ltr'>SAMUEL</span> <span class='ocrx_word' id='word_1_5' title='bbox 972 4119 1102 4168; x_wconf 77' lang='lat' dir='ltr'><strong>BENTLEY,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 611 4189 1011 4240; baseline 0.003 -14"><span class='ocrx_word' id='word_1_6' title='bbox 611 4193 716 4228; x_wconf 80' lang='lat' dir='ltr'><strong>BANGOR</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 735 4191 829 4240; x_wconf 76' lang='lat' dir='ltr'>flousss,</span> <span class='ocrx_word' id='word_1_8' title='bbox 847 4189 914 4226; x_wconf 79' lang='lat' dir='ltr'>SHOE</span> <span class='ocrx_word' id='word_1_9' title='bbox 933 4191 1011 4227; x_wconf 68' lang='lat' dir='ltr'>LANE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1498 5074">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1498 5074">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1498 5074; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1498 5074; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
